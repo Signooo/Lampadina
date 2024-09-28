@@ -1,0 +1,32 @@
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\INFORMATICA\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\INFORMATICA\Modificare colore sfondo label (lampadina)\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
